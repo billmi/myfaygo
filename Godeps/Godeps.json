@@ -1,0 +1,135 @@
+{
+	"ImportPath": "github.com/my_project/myfaygo",
+	"GoVersion": "go1.8",
+	"GodepVersion": "v79",
+	"Deps": [
+		{
+			"ImportPath": "github.com/elazarl/go-bindata-assetfs",
+			"Rev": "30f82fa23fd844bd5bb1e5f216db87fd77b5eb43"
+		},
+		{
+			"ImportPath": "github.com/go-sql-driver/mysql",
+			"Comment": "v1.3-24-ga825be0",
+			"Rev": "a825be04c652d01442384e9dcdf2cdc3f1eda67f"
+		},
+		{
+			"ImportPath": "github.com/go-xorm/builder",
+			"Rev": "c8871c857d2555fbfbd8524f895be5386d3d8836"
+		},
+		{
+			"ImportPath": "github.com/go-xorm/core",
+			"Comment": "v0.5.6-18-gda1adaf",
+			"Rev": "da1adaf7a28ca792961721a34e6e04945200c890"
+		},
+		{
+			"ImportPath": "github.com/go-xorm/xorm",
+			"Comment": "v0.6.3-13-gc29485f",
+			"Rev": "c29485f954ed6495861c0098f9a1642a467299c8"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/_syso",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/acceptencoder",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/apiware",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/ext/db/xorm",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/freecache",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/freecache/murmur3",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/gracenet",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/logging",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/logging/color",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/markdown",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/pongo2",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/session",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/faygo/swagger",
+			"Comment": "v1.2.0-2-ga50a80f",
+			"Rev": "a50a80f79e49e4b98bdc9309a7a4f51be65df453"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/goutil",
+			"Rev": "ca54f14b6f1987b97fd83e072981e9d6597753d9"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/goutil/errors",
+			"Rev": "ca54f14b6f1987b97fd83e072981e9d6597753d9"
+		},
+		{
+			"ImportPath": "github.com/henrylee2cn/ini",
+			"Comment": "v1.28.0-6-g5ed75ff",
+			"Rev": "5ed75ffad86d0429239bb5beee483f40bad43d34"
+		},
+		{
+			"ImportPath": "github.com/lib/pq",
+			"Comment": "go1.0-cutoff-175-ge422674",
+			"Rev": "e42267488fe361b9dc034be7a6bffef5b195bceb"
+		},
+		{
+			"ImportPath": "github.com/lib/pq/oid",
+			"Comment": "go1.0-cutoff-175-ge422674",
+			"Rev": "e42267488fe361b9dc034be7a6bffef5b195bceb"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme",
+			"Rev": "74b34b9dd60829a9fcaf56a59e81c3877a8ecd2c"
+		},
+		{
+			"ImportPath": "golang.org/x/crypto/acme/autocert",
+			"Rev": "74b34b9dd60829a9fcaf56a59e81c3877a8ecd2c"
+		},
+		{
+			"ImportPath": "golang.org/x/sys/unix",
+			"Rev": "a5054c7c1385fd50d9394475365355a87a7873ec"
+		}
+	]
+}
